@@ -1,0 +1,12 @@
+{
+  "name": "firebaseauth",
+  "displayName": "firebaseauth",
+  "expo": {
+    "name": "firebaseauth",
+    "slug": "firebaseauth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
